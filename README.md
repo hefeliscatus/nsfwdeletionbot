@@ -1,0 +1,1 @@
+perspective api and nsfw js based bot
